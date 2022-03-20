@@ -2,7 +2,8 @@ HELP.md
 target/
 .mvn
 .idea
-ss
+*.iml
+mvnw*
 
 ### STS ###
 .apt_generated
